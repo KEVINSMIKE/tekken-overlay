@@ -1,0 +1,30 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.env
+*.egg-info/
+
+# Logs / Debug
+*.log
+
+# OCR/Images
+captures/
+outputs/
+temp/
+
+# Node (si jamais tu rajoutes un front)
+node_modules/
+dist/
+build/
+
